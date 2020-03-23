@@ -1,2 +1,2 @@
-# Analysis of population time series d
+# Analysis of population time series
 # Website to get the data: https://fred.stlouisfed.org/
