@@ -1,1 +1,1 @@
-# Website to get the data: https://fred.stlouisfed.org/
+# Data source: https://fred.stlouisfed.org/
